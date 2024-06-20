@@ -1,6 +1,13 @@
 # Welcome to Dotlix app 👋
 
-![Deskripsi gambar](assets/gambar1.png)
+<table>
+  <tr>
+    <td><img src="assets/gambar1.png" alt="Gambar 1" style="width: 100%;"/></td>
+    <td><img src="assets/gambar2.png" alt="Gambar 2" style="width: 100%;"/></td>
+    <td><img src="assets/gambar3.png" alt="Gambar 1" style="width: 100%;"/></td>
+    <td><img src="assets/gambar4.png" alt="Gambar 2" style="width: 100%;"/></td>
+  </tr>
+</table>
 
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
