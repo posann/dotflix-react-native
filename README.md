@@ -1,4 +1,4 @@
-# Welcome to Dotlix app 👋
+# Welcome to Dotlix 👋
 
 <table>
   <tr>
